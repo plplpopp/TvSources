@@ -157,6 +157,7 @@ CETV4空中课堂频道,http://hwylivehd.centv.cn/cetv4/zjpd.m3u8
 哈哈炫动卫视,http://jxcbn.ws-cdn.gitv.tv/hls/XDKT/index.m3u8?gMac=unknown&livodToken=a941b119108340f43f484ae4a05f6aefc590736c90f209ab07373d6277c63aad_1720514437_604800&fromCDN=ws
 上海金山电视台,http://livejs1.newsjs.net/jspd/playlist.m3u8
 崇明电视台,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
+云南都市频道yntv2,http://tvlive.ynradio.com/live/yunnandushi/chunks.m3u8
 西双版纳一套,http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel1/playlist.m3u8
 西双版纳二套,http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel3/playlist.m3u8
 广安新闻综合频道,http://live1.gatv.com.cn:85/live/XWZH.m3u8
