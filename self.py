@@ -1,6 +1,6 @@
 import requests
 
-url = "https://live.zhoujie218.top/tv/iptv4.txt"
+url = "https://mirror.ghproxy.com/https://raw.githubusercontent.com/plplpopp/TV/main/speedtest/zubo.txt"
 
 r = requests.get(url)
 r.encoding = "utf-8"
