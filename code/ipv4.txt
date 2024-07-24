@@ -7,7 +7,6 @@ CCTV-2,http://221.4.143.69:8114/GD_CUCC/G_CCTV-2-CQ.m3u8?Authinfo=56fbZo0WT6rfM%
 CCTV-2,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225612/index.m3u8
 CCTV-2,http://171.8.245.118:808/hls/2/index.m3u8
 CCTV-2,http://36.32.174.67:60080/newlive/live/hls/2/live.m3u8
-CCTV-3,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225611/index.m3u8
 CCTV-3,http://36.32.174.67:60080/newlive/live/hls/3/live.m3u8
 CCTV-3,https://live.goodiptv.club/api/bestv.php?id=cctv38m/8000000
 CCTV-4,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225610/index.m3u8
@@ -99,6 +98,7 @@ CCTV-17,http://xxw.me0.cn/api/migu.php?id=19
 北京卫视,http://120.224.178.16:9901/tsfile/live/0126_1.m3u8
 北京卫视,http://43.132.64.50/outlivecloud-cdn.ysp.cctv.cn/ysp/2024052703.m3u8
 北京卫视,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225502/index.m3u8
+北京卫视,http://xyt.186738613.xyz/lngd.php?id=083&Cf.m3u8
 北京卫视,http://61.138.128.226:19901/tsfile/live/0122_1.m3u8
 北京卫视,http://36.32.174.67:60080/newlive/live/hls/25/live.m3u8
 湖北卫视,http://43.132.64.50/outlivecloud-cdn.ysp.cctv.cn/ysp/2024171203.m3u8
@@ -365,7 +365,6 @@ CETV4空中课堂频道,http://hwylivehd.centv.cn/cetv4/zjpd.m3u8
 上虞新商都频道,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
 嵊州新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 东阳影视生活频道,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
-武义新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8
 兰溪新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
 龙游新闻综合频道,https://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
 龙游生活娱乐频道,https://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
@@ -398,8 +397,6 @@ CETV4空中课堂频道,http://hwylivehd.centv.cn/cetv4/zjpd.m3u8
 上海东方购物频道,http://ocj2.kksmg.com/ocj2/ocj2.m3u8
 上海金山电视台,http://livejs1.newsjs.net/jspd/playlist.m3u8
 崇明电视台,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
-云南都市频道yntv2,http://tvlive.ynradio.com/live/yunnandushi/chunks.m3u8
-云南娱乐频道yntv3,http://tvlive.ynradio.com/live/yunnanyule/chunks.m3u8
 西双版纳一套,http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel1/playlist.m3u8
 西双版纳二套,http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel3/playlist.m3u8
 广安新闻综合频道,http://live1.gatv.com.cn:85/live/XWZH.m3u8
