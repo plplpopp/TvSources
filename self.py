@@ -1,6 +1,6 @@
 import requests
 
-url = "https://mirror.ghproxy.com/raw.githubusercontent.com/plplpopp/TVbox/master/result.txt"
+url = "https://raw.githubusercontent.com/plplpopp/TVbox/master/result.txt"
 
 r = requests.get(url)
 r.encoding = "utf-8"
