@@ -2,7 +2,7 @@ name: 更新直播源
 
 on:
   schedule:
-    - cron: '0 */72 * * *'  # 每72小时触发一次
+    - cron: '0 0,9,17 * * *'  # 每天的 0:00, 9:00, 17:00 触发一次
   workflow_dispatch:
 
 permissions:
