@@ -1,6 +1,6 @@
 import requests
 
-url = "https://raw.githubusercontent.com/plplpopp/TVbox/master/result.txt"
+url = "http://godiptv.dns.navy:1024/tv/getVideoConfigByPath/txt/IAI8931N44NE79D1/2/heightlow/y/ipv46/全部"
 
 r = requests.get(url)
 r.encoding = "utf-8"
