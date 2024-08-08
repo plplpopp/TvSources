@@ -3,6 +3,7 @@
 江西卫视,http://xxw.me0.cn/api/migu.php?id=26
 天津卫视,http://218.13.170.98:9901/tsfile/live/1008_1.m3u8
 贵州卫视,http://218.13.170.98:9901/tsfile/live/1014_1.m3u8
+内蒙古卫视,http://218.13.170.98:9901/tsfile/live/0109_1.m3u8
 宁夏卫视,http://218.13.170.98:9901/tsfile/live/0112_1.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
