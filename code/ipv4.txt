@@ -1,6 +1,6 @@
 CCTV-10,http://1.195.111.251:11190/tsfile/live/0010_1.m3u8
+CCTV-11,http://xxw.me0.cn/api/migu.php?id=14
 CCTV-12,http://xxw.me0.cn/api/migu.php?id=15
-CCTV-14,http://222.240.82.92:9901/tsfile/live/0014_1.m3u8
 CCTV-17,http://xxw.me0.cn/api/migu.php?id=19
 贵州卫视,http://218.13.170.98:9901/tsfile/live/1014_1.m3u8
 江西卫视,http://xxw.me0.cn/api/migu.php?id=26
@@ -16,6 +16,7 @@ CCTV-4K超高清,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/play
 安徽卫视,http://117.27.190.42:9998/tsfile/live/23262_1.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
+中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 CETV1中国教育电视台一套,http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801_fhd.m3u8
 广州电视台综合频道,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=aae0358e06f64d4db4d663321a3fa964&txTime=190def4db74
 广州电视台影视频道,https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=88ad17e0518f41980b392744d8ecbfc7&txTime=190def6e358
@@ -101,6 +102,10 @@ CETV1中国教育电视台一套,http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801
 青州电视台新闻综合频道,http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8
 青州电视台生活频道,http://sdqz.chinashadt.com:2036/live/stream:2.stream/playlist.m3u8
 青州电视台文化旅游频道,http://sdqz.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8
+济宁新闻综合频道,http://lives.jnnews.tv/video/s10001-JNTV-1/index.m3u8
+济宁图文频道,http://lives.jnnews.tv/video/s10001-JNTV4/index.m3u8
+济宁公共频道,http://lives.jnnews.tv/video/s10001-JNTV3/index.m3u8
+济宁教育频道,http://lives.jnnews.tv/video/s10001-JNTV-2/index.m3u8
 威海一套新闻综合频道,http://l1.weihai.tv:8081/hls/969O76hb22.m3u8
 威海二套公共频道,http://l1.weihai.tv:8081/hls/969O76hb22.m3u8
 威海三套海洋频道,http://l1.weihai.tv:8081/hls/969O76hb22.m3u8
@@ -195,7 +200,6 @@ CETV1中国教育电视台一套,http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801
 忠县综合频道,https://qxlmlive9.cbg.cn/applive/zxtv2/chunklist.m3u8
 忠县文旅频道,https://qxlmlive9.cbg.cn/applive/zxtv2/chunklist.m3u8
 邯郸新闻综合频道,https://jwliveqxzb.hebyun.com.cn/hdxwzh/hdxwzh.m3u8
-邯郸公共频道,https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8
 邯郸科教频道,https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8
 广西国际频道,https://mobilelive.gxtv.cn/live/nn_live1009/playlist.m3u8
 广西乐思购频道,https://mobilelive.gxtv.cn/live/nn_live1002/playlist.m3u8
